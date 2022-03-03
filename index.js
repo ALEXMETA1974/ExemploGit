@@ -6,3 +6,4 @@ if (quantidadeDeEstudantes < 5) {
 } else {
 	console.log("Não é possível inserir mais alunos nessa turma");
 }
+//alteração realizada
